@@ -4,7 +4,7 @@
 
 I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in 2019. Since then I am working as a Gradute Research Assistant in Biomedical Engineering department in a South Korean University. I work on the compartment modeling of neurofluids especially Cerebrospinal fluid in Glymphatic System. 
 
- **`Interests`** <img align="left" alt="f5fabc64-e637-4193-9f24-c559de94c71c" width="30px" style="padding-right:10px;" src="https://github.com/TahiraRafiq/Tahira_Rafiq/assets/141120649/f5fabc64-e637-4193-9f24-c559de94c71c" />                   
+ **`Interests`** <img align="left" alt="f5fabc64-e637-4193-9f24-c559de94c71c" width="30px" style="padding-right:5px;" src="https://github.com/TahiraRafiq/Tahira_Rafiq/assets/141120649/f5fabc64-e637-4193-9f24-c559de94c71c" />                   
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Medical%20Imaging-plum"> <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-lightblue"> <img alt="Static Badge" src="https://img.shields.io/badge/Signal%20Processing-lightpink"> <img alt="Static Badge" src="https://img.shields.io/badge/Optimization-lightyellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Inverse%20Problem-lightgreen">
 

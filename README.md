@@ -1,12 +1,12 @@
 # TahiraRafiq
 
-<b>**`Researcher`**</b>
+**`Researcher`**
 
 I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in 2019. Since then I am working as a Gradute Research Assistant in Biomedical Engineering department in a South Korean University. I work on the compartment modeling of neurofluids especially Cerebrospinal fluid in Glymphatic System. 
 
-<span style ="color:red">**`Research Interests`** </span>
+**`Research Interests`** 
 
-<strong>Medical Imaging</strong>, <p>  <span style ="color:red"> Machine Learning </span>  </p>
+<strong>Medical Imaging</strong>, <p>  <span style ="color:red;"> Machine Learning </span>  </p>
 
 
 

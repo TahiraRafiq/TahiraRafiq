@@ -1,6 +1,6 @@
 # TahiraRafiq
 
-**`Researcher`**  
+**`Researcher`**<img align="left" alt="ad47ced9-28eb-4747-9d6c-725edba24a9b" width="25px" style="padding-right:10px;" src="https://github.com/TahiraRafiq/Tahira_Rafiq/assets/141120649/ad47ced9-28eb-4747-9d6c-725edba24a9b" /> 
 
 I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in 2019. Since then I am working as a Gradute Research Assistant in Biomedical Engineering department in a South Korean University. I work on the compartment modeling of neurofluids especially Cerebrospinal fluid in Glymphatic System. 
 

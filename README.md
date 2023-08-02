@@ -6,7 +6,7 @@ I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in
 
 **`Research Interests`**
 
-<strong>Medical Imaging</strong>, <h1 style="color: green;"> Machine Learning </h1>
+<strong>Medical Imaging</strong>, <span style="color: green;"> Machine Learning </span>
 
 
 ---

@@ -8,6 +8,7 @@ I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in
 
 <strong>Medical Imaging</strong>, <span style ="color: red;"> Machine Learning   </span>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Medical%20Imagine-red">
 
 
 ---

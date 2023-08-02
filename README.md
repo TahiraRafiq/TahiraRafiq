@@ -6,11 +6,11 @@ I am an Electronic Engineer,graduated from Iqra University, Karachi, Pakistan in
 
 **`Research Interests`** 
 
-<img alt="Static Badge" style="padding-right:10px;" src="https://img.shields.io/badge/Medical%20Imaging-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-lightblue">
+<img alt="Static Badge" style="padding-right:10px;" src="https://img.shields.io/badge/Medical%20Imaging-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning-lightblue"> <img alt="Static Badge" src="https://img.shields.io/badge/Signal%20Processing-lightpink"> <img alt="Static Badge" src="https://img.shields.io/badge/Optimization-lightyellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Inverse%20Problem-lightgreen">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Signal%20Processing-lightpink">
-<img alt="Static Badge" src="https://img.shields.io/badge/Optimization-lightyellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/Inverse%20Problem-lightgreen">
+
+
+
 
 ---
 
